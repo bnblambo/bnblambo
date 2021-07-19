@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**bnblambo/bnblambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                     
+            BNB Lambo Token 
+ Drive Lambo by participating the BNBLambo Lottery 
+ $BNBLAMBO is used to Participate Decentralized Lotteries 
+ on the Binance Smart Chain using cutting edge Smart Contract feature.                           
+  
+ https://bnblambo.com      
+                                                                                                                                                                                                                    
+ BNBLambo automatically burns 4% of the total supply and
+ applies a 4% tax upon each transaction. This tax is
+ immediately distributed between holders of the token.
